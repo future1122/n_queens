@@ -1,5 +1,6 @@
 // n_Queens.cpp : 定义控制台应用程序的入口点。
-//
+//添加注释。。。。
+//添加另一行注释
 #include "stdafx.h"
 #include<iostream>
 #include<math.h>
